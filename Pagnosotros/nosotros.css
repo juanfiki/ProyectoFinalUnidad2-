@@ -1,0 +1,31 @@
+.ole{
+    color:white;
+    padding-right: 10px;
+    text-align: center;
+
+}
+.muse{
+    width: 100%;
+    height: 100%;
+    padding-left: 50px;
+    padding-top: 10px;
+    border-radius: 50px;
+}
+.muse1{
+    width: 100%;
+    height: 100%;
+    padding-right: 50px;
+    padding-top: 10px;
+    border-radius: 50px;
+    
+}
+.texto{
+    color:black;
+    text-align: center;
+}
+.divideo{
+    padding-top: 30px;
+}
+h1{
+    text-align: center;
+}
